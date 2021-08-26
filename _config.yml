@@ -1,0 +1,16 @@
+title: Andre's Site for ENGL 5995
+email: cincospenguinos@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my site--er, "Content Management System" for ENGLISH 5995, Digital Humanities.
+  I'll be putting all sorts of things on here, I suppose.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: andreCLaFleur
+github_username:  cincospenguinos
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - '.gitignore'
