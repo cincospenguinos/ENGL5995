@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Galatea"
+date: 2021-09-15 12:41:00 -0600
+categories: games mythology
+---
+
+[_Galatea_](http://pr-if.org/play/galatea/) is a unique work of interactive fiction. Unlike something like _Adventure_ or _Zork_, there isn't a strong puzzle component, but instead the game works along the idea of just interacting with Galatea. One of my endings resulted in her sharing openly and my character deciding on educating her. I thought it was interesting that romantic verbs were explicitly mentioned in the `help` command--as if the designers anticipated and almost encouraged interacting with Galatea like Pygmalion did. The fact that the player's focus is interacting with what seems to be a person being the subject of the game instead of exploring unique and empty places with creatures, à la Zork.
